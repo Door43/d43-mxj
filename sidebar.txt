@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mxj:home|Door43 (mxj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mxj|d43-mxj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mxj/archive/master.zip|d43-mxj.zip]]
+
+**Recent Changes**
+{{changes>ns = mxj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mxj|Ethnologue data]]
+
